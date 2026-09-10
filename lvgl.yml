@@ -27,7 +27,7 @@ substitutions:
   label_oprmode: "Modo Opr."
   label_brightness: "Brilho do Display"
   label_qrcode: "Manual"
-  qrlink: "test.com"
+  qrlink: "https://github.com/kanagawawave/pressurecontrol/blob/main/INST.md"
   label_restart: "Reiniciar"
   label_factory: "Resetaurar Cfg"
  
