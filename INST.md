@@ -1,8 +1,10 @@
 > [!CAUTION]
 > PROJETO INCOMPLETO!
 
+> [!CAUTION]
 > Acredito que esteja 95%+ finalizado. Falta apenas documentar a logica de leitura do fluxostato no canal 2 do adc e implementar a logica no switch(flowswitchbn).
 
+> [!CAUTION]
 > No momento não pretendo levar a ideia adiante.
 
 # ESPHome PRESSOSTATO
